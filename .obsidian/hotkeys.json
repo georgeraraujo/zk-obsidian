@@ -1,0 +1,24 @@
+{
+  "tag-pane:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F12"
+    }
+  ]
+}
