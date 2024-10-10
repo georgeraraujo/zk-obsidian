@@ -7,72 +7,67 @@
 
 ## Introdução e conceitos
 
-Uma Zettelkasten ("caixa de notas" em alemão) é um arquivo de anotações em fichas de papel, doravante chamadas de NOTAS.
-Cada nota tem um título e um conteúdo: uma ideia, um pensamento ou um comentário.
-O que torna a Zettelkasten mais que um simples arquivo de fichas é que, além de armazenar notas, ela também oferece um método para ligá-las umas às outras por meio de seus títulos ou de metadados (p. ex. identificadores ou *tags*).
+Uma Zettelkasten ("caixa de notas" em alemão) é um arquivo de notas acrescido de:
 
-Quando ligo notas, crio uma "PROTO-LINHA DE RACIOCÍNIO" – uma linha de raciocínio ainda incompleta, em estágio inicial.
-Mas o que é uma linha de raciocínio?
-Para responder essa pergunta, vamos introduzir alguns conceitos.
+* um método para ligar as notas umas às outras, e
+* um fluxo de trabalho para elaborar as notas.
 
-* RAZÃO ou PENSAMENTO é uma consideração ou um motivo justificado que eu ofereço ou aceito como explicação para sustentar uma afirmação ou uma opinião;
-* RACIOCÍNIO é o processo de chegar a conclusões pelo exame dos pensamentos.
+Cada nota tem um título e um conteúdo, que pode ser uma ideia, um pensamento ou um comentário.
+
+Para criar uma ligação da nota "ABC" à nota "XYZ", incluo na primeira uma referência ao título da segunda.
+
+Quando ligo notas, crio uma "PROTO-LINHA DE RACIOCÍNIO" – uma linha de raciocínio ainda incompleta, em estágio inicial. Mas o que é uma linha de raciocínio? Para responder essa pergunta, vamos introduzir alguns conceitos.
+
+* RAZÃO é um [PENSAMENTO](https://en.wiktionary.org/wiki/reason#English), uma consideração ou um [motivo justificado](https://pt.wiktionary.org/wiki/raz%C3%A3o) que eu ofereço ou aceito como explicação para sustentar uma afirmação ou uma opinião, e
+* [RACIOCÍNIO](https://plato.stanford.edu/entries/argument/) é entendido como o processo de chegar a conclusões pelo exame dos pensamentos (razões).
 
 Uma LINHA DE RACIOCÍNIO é uma sequência lógica e coesa de pensamentos na qual cada pensamento leva ao seguinte de forma natural, até chegar à conclusão.
 
-Um conjunto de pensamentos inter-relacionados, mas ainda não ordenados em uma sequência lógica e coesa, serve como matéria-prima para elaborar uma linha de raciocínio.
-Isto é, constitui uma "proto-linha de raciocínio": uma linha de raciocínio em estágio inicial, inacabada, ainda por completar.
+Um conjunto de pensamentos inter-relacionados, mas ainda não ordenados em uma sequência lógica e coesa, serve como matéria-prima para elaborar uma linha de raciocínio. Isto é, constitui uma "proto-linha de raciocínio": uma linha de raciocínio em estágio inicial, inacabada, ainda por completar.
 
-O termo "proto-linha de raciocínio" aparecerá mais vezes.
-Por isso, vou representá-lo com a sigla PLR.
+O termo "proto-linha de raciocínio" aparecerá mais vezes. Por isso, vou representá-lo com a sigla PLR.
 
 
 ## Para que serve a Zettelkasten
 
-A Zettelkasten NÃO É:
+Um arquivo de fichas genérico apenas coleta pensamentos. Já a Zettelkasten, que tem um método para ligar as notas umas às outras, CONECTA pensamentos. As ligações entre as notas são MUITO MAIS IMPORTANTES que uma nota específica.
+
+Na Zettelkasten, meus pensamentos podem ser comparados, contrastados, agrupados em PLRs, e mais qualquer coisa para a qual o meio físico seja mais funcional que o mental. Ela é uma espécie de "área de trabalho" para o meu cérebro: um ESPAÇO DE ARGUMENTAÇÃO.
+
+* [ARGUMENTAÇÃO](https://plato.stanford.edu/entries/argument/) pode ser definida como a atividade comunicativa de produzir PENSAMENTOS (razões) e debatê-los com alguém (na Zettelkasten, comigo mesmo!), especialmente em situações de dúvida ou discordância.
+
+A Zettelkasten NÃO é:
 
 * Um arquivo-morto ou buraco negro, de onde o que entra não sai mais;
-* Uma enciclopédia que contém tudo sobre um assunto;
+* Uma enciclopédia que contém tudo sobre um assunto (tópico discursivo);
 * Uma coleção de textos aleatórios;
 * Um cemitério de pensamentos.
 
-Eu não penso SOBRE o que está guardado nela, e sim JUNTO com ela.
+O fluxo de trabalho da Zettelkasten organiza as notas em uma estrutura de pastas, mostrada a seguir:
 
-Ela é uma espécie de "área de trabalho" para o meu cérebro: um ESPAÇO DE ARGUMENTAÇÃO.
-
-* ARGUMENTAÇÃO é a atitude comunicativa de produzir PENSAMENTOS (razões) e debatê-los com alguém (que posso ser eu mesmo), especialmente em situações de dúvida ou discordância.
-
-Na Zettelkasten, meus pensamentos se tornam tangíveis e podem ser comparados, contrastados, combinados, agrupados, sequenciados, e mais qualquer coisa para qual o meio físico seja mais funcional que o mental.
-
-O ponto forte da Zettelkasten não é coletar, é CONECTAR pensamentos.
-As ligações entre as notas são MUITO MAIS IMPORTANTES que uma nota específica.
-
-    ╮
-    │   ╭────────────────────╮
-    ├───┤ 1-Caixa de entrada │
-    │   ╰─┬──────────────────╯
-    │     │   ╭──────────────────╮
-    │     ╰───┤ Quem sabe um dia │
-    │         ╰──────────────────╯
-    │   ╭───────────────────────╮
-    ├───┤ 2-Notas de referência │
-    │   ╰───────────────────────╯
-    │   ╭─────────────────────╮
-    ├───┤ 3-Notas permanentes │
-    │   ╰─────────────────────╯
-    │   ╭──────────────────────────────────────╮
-    ├───┤ 4-Notas de delineamento de estrutura │
-    │   ╰──────────────────────────────────────╯
-    │   ╭──────────╮
-    ╰───┤ Projetos │
-        ╰─┬────────╯
-          │   ╭───────────╮
-          ├───┤ Projeto 1 │
-          │   ╰───────────╯
-         ...
-          │   ╭───────────╮
-          ╰───┤ Projeto N │
-              ╰───────────╯
+    ●─╮
+      │   ╭────────────────────╮
+      ├───┤ 1-Caixa de entrada │
+      │   ╰─┬──────────────────╯
+      │     │   ╭──────────────────╮
+      │     ╰───┤ Quem sabe um dia │
+      │         ╰──────────────────╯
+      │   ╭───────────────────────╮
+      ├───┤ 2-Notas de referência │
+      │   ╰───────────────────────╯
+      │   ╭─────────────────────╮
+      ├───┤ 3-Notas permanentes │
+      │   ╰─────────────────────╯
+      │   ╭──────────╮
+      ╰───┤ Projetos │
+          ╰─┬────────╯
+            │   ╭───────────╮
+            ├───┤ Projeto 1 │
+            │   ╰───────────╯
+           ...
+            │   ╭───────────╮
+            ╰───┤ Projeto N │
+                ╰───────────╯
 
 ## Notas efêmeras (*fleeting notes*)
 
@@ -81,7 +76,7 @@ Estas notas vão para a pasta 1-CAIXA DE ENTRADA e capturam coisas que me chamar
 * Faço notas efêmeras rapidamente e sem interromper o que estou fazendo – elas são meros LEMBRETES.
 * Devo processá-las de preferência no mesmo dia (no mais tardar, no dia seguinte), e em seguida DESCARTÁ-LAS.
   * Se não quiser descartar uma nota efêmerea ou não quiser/puder processá-la rapidamente, movo-a para a subpasta QUEM SABE UM DIA.
-* É necessário registrar POR QUE o que estou capturando é relevante para meu raciocínio, meus interesses, minha pesquisa. Se não registrar, talvez não lembre quando for processar a nota efêmera. Além disso, ajuda mais na frente a elaborar NOTAS DE AGRUPAMENTO.
+* É necessário registrar POR QUE o que estou capturando é relevante para meu raciocínio, meus interesses, minha pesquisa. Se não registrar, talvez não lembre quando for processar a nota efêmera. Além disso, ajuda a identificar o tópico discursivo para intitular NOTAS DE ESQUEMATIZAÇÃO DE RACIOCÍNIO mais à frente.
 
 ### Passo-a-passo para criar uma nova nota efêmera
 
@@ -99,8 +94,7 @@ Estas notas vão para a pasta 1-CAIXA DE ENTRADA e capturam coisas que me chamar
     │
     ╰─────────
 
-A pergunta "Por que é relevante?" aparecerá mais vezes.
-Por isso, vou representá-la com a sigla PQÉR.
+A pergunta "Por que é relevante?" aparecerá mais vezes. Por isso, vou representá-la com a sigla PQÉR.
 
     Exemplo:
     ╭───────── 
@@ -121,21 +115,17 @@ Por isso, vou representá-la com a sigla PQÉR.
     │           que a T.I.M. tem relação com meu tema de TCC.
     │ ...
     │
-    │ etc.
+    │   etc.
     │
     ╰─────────
 
 ## Destaques de referência
 
-São adicionados à entrada da referência no gerenciador de referências (p. ex. Zotero).
+São adicionados à entrada da referência no gerenciador de referências (p. ex. JabRef ou Zotero).
 
-Esses destaques não ficarão salvos na Zettelkasten, e sim no gerenciador de referências, em um campo na entrada da referência;
-e neles é cabível guardar cópias literais de trechos,
-p. ex. exportações de anotações do Kindle.
+Esses destaques não ficarão salvos na Zettelkasten, e sim no gerenciador de referências, em um campo na entrada da referência; e neles é cabível guardar cópias literais de trechos, p. ex. exportações de anotações do Kindle.
 
-É necessário registrar PQÉR.
-Se não registrar, talvez não lembre no futuro.
-Além disso, ajuda mais na frente a intitular as NOTAS DE AGRUPAMENTO.
+É necessário registrar PQÉR. Se não registrar, talvez não lembre no futuro. Além disso, ajuda a identificar o tópico discursivo para intitular NOTAS DE ESQUEMATIZAÇÃO DE RACIOCÍNIO mais à frente.
 
     ╭──────
     │ No JabRef:
@@ -165,13 +155,9 @@ Além disso, ajuda mais na frente a intitular as NOTAS DE AGRUPAMENTO.
 
 Estas notas ficam salvas na pasta 2-NOTAS DE REFERÊNCIA e devem conter apontamentos breves. Podem ser armazenadas tanto na Zettelkasten quanto no gerenciador de referências.
 
-Escrevê-las NÃO é um projeto em si mesmo.
-Elas devem servir de BASE para escrever notas permanentes – e só.
+Escrevê-las NÃO é um projeto em si mesmo. Elas devem servir de BASE para escrever notas permanentes – e só.
 
-É necessário registrar PQÉR.
-Uso como ponto de partida o PQÉR dos destaques de referência.
-Se não registrar, talvez não lembre no futuro.
-Além disso, ajuda mais na frente a intitular as NOTAS DE AGRUPAMENTO.
+É necessário registrar PQÉR. Uso como ponto de partida o PQÉR dos destaques de referência. Se não registrar, talvez não lembre no futuro. Além disso, ajuda a identificar o tópico discursivo para intitular NOTAS DE ESQUEMATIZAÇÃO DE RACIOCÍNIO mais à frente.
 
 ### Passo-a-passo para criar uma nova nota de referência
 
@@ -224,11 +210,9 @@ Além disso, ajuda mais na frente a intitular as NOTAS DE AGRUPAMENTO.
 
 ## Notas permanentes
 
-Estas notas são as MAIS IMPORTANTES, o α e o ω do método.
-Ficam salvas na pasta 3-NOTAS PERMANENTES.
+Estas notas são as MAIS IMPORTANTES, o α e o ω do método. Ficam salvas na pasta 3-NOTAS PERMANENTES.
 
-Devo criar notas permanentes para usá-las como MUDAS QUE VÃO GERMINAR EM MEUS TRABALHOS FUTUROS, não como MUSEU DO TRABALHO ALHEIO.
-Devo ter mentalidade de ESCRITOR, não de arquivista:
+Devo criar notas permanentes para usá-las como MUDAS QUE VÃO GERMINAR EM MEUS TRABALHOS FUTUROS, não como MUSEU DO TRABALHO ALHEIO. Devo ter mentalidade de ESCRITOR, não de arquivista:
 
 * O escritor se pergunta: "Em que interesse meu posso usar esta ideia?"
 * O arquivista se pergunta: "Sob que tópico devo arquivar isto?"
@@ -250,76 +234,28 @@ Eis os critérios para que o conteúdo de uma nota efêmera ou de referência or
 Uma nota permanente é composta pelos elementos a seguir:
 
 * Obrigatórios
-  * Identificador
   * Título
   * Um e somente um conteúdo: um pensamento ou uma ideia ou um comentário
   * PQÉR
 * Opcionais
   * Chaves das referências que serviram de ponto de partida
-  * Identificadores das notas permanentes relacionadas
+  * Ligações para as notas permanentes relacionadas
 
 Vou detalhá-los.
 
-#### Identificador
-
-O identificador de uma nota permanente é único e imutável.
-
-É único porque nenhuma outra nota permanente terá o mesmo identificador.
-É imutável porque, uma vez atribuído, não será modificado.
-
-O identificador tem duas partes, separadas por um ponto.
-
-* O número mais à direita é o ordinal da nota na PLR.
-* A combinação de números, letras e pontos que antecede o ponto mais à direita representa a PLR.
-
-O quadro de exemplo que segue ajuda a ilustrar o identificador e as PLRs.
-
-    ╭──────
-    │ ╭─────╮  ╭──────╮         ╭──────╮
-    │ │ 1.1 ├──┤ 1.2  ├── ... ──┤ 1.NN │
-    │ ╰─────╯  ╰──╮╶──╯         ╰──────╯
-    │             │
-    │         1.2‹a›
-    │             │  ╭────────────────╮         ╭────────╮         ╭─────────╮
-    │             ╰──┤ 1.2a.1         ├── ... ──┤ 1.2a.2 ├── ... ──┤ 1.2a.NN │
-    │                ╰──╮╶──╮╶──╮╶──╮╶╯         ╰────────╯         ╰─────────╯
-    │                   │   │   │   │
-    │            1.2a.1‹a›  │  ...  │
-    │                   │   │       │  ╭───────────╮
-    │                   ╰──────────────┤ 1.2a.1a.1 ├── ...
-    │                       │       │  ╰───────────╯
-    │                1.2a.1‹b›      │
-    │                       │       │  ╭───────────╮
-    │                       ╰──────────┤ 1.2a.1b.1 ├── ... 
-    │                               │  ╰───────────╯
-    │                        1.2a.1‹z›
-    │                               │  ╭───────────╮
-    │                               ╰──┤ 1.2a.1z.1 ├── ...
-    │                                  ╰───────────╯
-    │ ...
-    │
-    │ ╭────────────────╮
-    │ │ NN.1           ├── ...
-    │ ╰──╮╶──╮╶──╮╶──╮╶╯
-    │    │   │   │   │
-    │    │   │  ...  │
-    │    ╰──────────────── ...
-    │        │       │
-    │        ╰──────────── ...
-    │                │
-    │                ╰──── ...
-    ╰──────
-
-* Ligação horizontal entre duas notas significa que elas fazem parte da mesma PLR.
-* Ligação vertical entre duas notas significa que a nota de baixo NÃO faz parte da mesma PLR que a nota de cima, mas a BIFURCA tomando como ponto de partida um único elemento do pensamento da nota de cima.
-
-
 #### Título
 
-O título é declarativo, não descritivo.
+O título de uma nota é da forma "202410071139 Nem toda ave voa" (sem as aspas). Tem duas partes:
 
-* "Nem toda ave voa" é melhor que "Aves e voo". O primeiro condensa o conteúdo da nota, o segundo apenas indica o tópico.
+* um prefixo numérico gerado automaticamente a partir da data e do horário em que a nota foi criada (p. ex. 202410071139), e
+* um breve texto declarativo.
+
+O texto do título deve ser declarativo, não descritivo.
+
+* "Nem toda ave voa" é melhor que "Aves e voo". O primeiro condensa o conteúdo da nota, o segundo apenas informa o tema.
 * Um título declarativo também ajuda a pesquisar e descobrir se já capturei um certo pensamento.
+
+Cada nota é armazenada em um arquivo cujo nome é o título. Por isso, os seguintes caracteres que o Windows não aceita em nomes de arquivos também não podem ser usados em títulos de notas: < > : " / \ | ? *
 
 #### Um e somente um conteúdo: um pensamento ou uma ideia ou um comentário
 
@@ -330,46 +266,38 @@ Sigo o Princípio da Atomicidade: cada nota permanente conterá um, e apenas um,
 * Pode ser uma pergunta? Se for uma pergunta inspiradora, instigante, ainda sem resposta (pode se tornar uma hipótese ou um problema de pesquisa!), então sim.
 * Pode ser uma negação? Se indicar uma lacuna ou um equívoco em uma referência, se for um ponto de partida para desenvolver um argumento, se servir para expandir ou aprofundar algo de meu interesse, então sim.
 
-Embora eu possa guardar qualquer nota que quiser, devo sempre considerar a relevância dela para meus interesses.
-Se eu guardar toda e qualquer coisa – p. ex. frases soltas, trechos aleatórios, citações descontextualizadas –, em pouco tempo minha Zettelkasten vai se tornar um lugar aonde eu não quero ir.
+Embora eu possa guardar qualquer nota que quiser, devo sempre considerar a relevância dela para meus interesses. Se eu guardar toda e qualquer coisa – p. ex. frases soltas, trechos aleatórios, citações descontextualizadas –, em pouco tempo minha Zettelkasten vai se tornar um lugar aonde eu não quero ir.
 
-Nada de copiar/colar textos, ideias nem pensamentos alheios.
-"Traduzo" para um contexto meu.
-Escrevo como se fosse para outra pessoa.
-Porque É para outra pessoa – meu eu futuro, que terá se esquecido do contexto em que escreveu a nota.
+Nada de copiar/colar textos, ideias nem pensamentos alheios. "Traduzo" para um contexto meu. Escrevo como se fosse para outra pessoa. Porque É para outra pessoa – meu eu futuro, que terá se esquecido do contexto em que escreveu a nota.
 
 * Uso orações completas.
 * Busco ser tão claro, breve e preciso quanto possível.
 
 #### PQÉR
 
-É necessário registrar POR QUE a nota permanente é relevante.
-Uso como ponto de partida os PQÉR das notas efêmeras e das notas de referência.
-Se não registrar, talvez não lembre no futuro.
-Além disso, ajuda mais na frente a intitular as NOTAS DE AGRUPAMENTO.
+É necessário registrar POR QUE a nota permanente é relevante. Uso como ponto de partida os PQÉR das notas efêmeras e das notas de referência. Se não registrar, talvez não lembre no futuro. Além disso, ajuda a identificar o tópico discursivo para intitular NOTAS DE ESQUEMATIZAÇÃO DE RACIOCÍNIO mais à frente.
 
 #### Chaves das referências que serviram de ponto de partida
 
 Cito as fontes.
 
-#### Identificadores das notas permanentes relacionadas
+#### Ligações para as notas permanentes relacionadas
 
-Ao escrever uma nota, procuro relacioná-la com as existentes.
-Quando a Zettelkasten tiver alcançado uma certa "massa crítica", no mais das vezes uma nota nova será ligada a uma nota existente. PLRs constituem *discussões* minhas comigo mesmo, porque a Zettelkasten é meu ESPAÇO DE ARGUMENTAÇÃO.
+Ao escrever uma nota, procuro relacioná-la com as existentes. Quando a Zettelkasten tiver alcançado uma certa "massa crítica", no mais das vezes uma nota nova será ligada a uma nota existente. PLRs constituem *discussões* minhas comigo mesmo, porque a Zettelkasten é meu ESPAÇO DE ARGUMENTAÇÃO.
 
-O ponto forte da Zettelkasten não é coletar, é CONECTAR pensamentos. Uma nota ficar isolada dever ser a exceção, não a regra!
+O ponto forte da Zettelkasten não é coletar, é CONECTAR pensamentos. Uma nota ficar isolada dever ser a EXCEÇÃO, não a regra!
 
-### Notas de agrupamento
+### Notas de esquematização de raciocínio
 
-A nota de agrupamento é uma nota permanente que reúne notas permanentes relacionadas entre si.
-Serve como ponto de entrada para uma discussão que já se desenvolveu a tal ponto que uma visão geral é necessária ou, no mínimo, útil.
-Em suas notas de agrupamento, Luhmann coletava até 25 ligações para outras notas.
+A nota de esquematização de raciocínio é uma nota permanente que reúne notas permanentes relacionadas entre si, p. ex. tratam do mesmo assunto ou TÓPICO DISCURSIVO. Ela apresenta ligações para pensamentos de uma PLR que já se desenvolveu a tal ponto que uma visão geral – um ESQUEMA – do que ela contém é necessária ou, no mínimo, útil. Em suas notas de esquematização de raciocínio, Luhmann coletava até 25 ligações para outras notas.
 
-Novos *insights* e novas leituras ensejam novas notas permanentes, que enriquecem as discussões.
-Consequentemente, modifico minhas notas de agrupamento para refletir o progresso de uma discussão.
+O termo "nota de esquematização de raciocínio" aparecerá mais vezes. Por isso, vou representá-lo com a sigla NER.
 
-Uma nota de agrupamento pode ter ligações para outras notas de agrupamento.
-Suponhamos que eu tenha uma nota de agrupamento com 60 ligações. Posso dividi-las em, digamos, quatro notas de agrupamento mais granulares, e elaborar uma nota de agrupamento geral com ligações para essas quatro notas mais granulares.
+Novos *insights* e novas leituras ensejam novas notas permanentes, que enriquecem as PLRs. Consequentemente, modifico minhas NERs para refletir o progresso de uma PLR.
+
+Uma NER pode ter ligações para outras NERs. Suponhamos que eu tenha uma NER com 60 ligações. Posso dividi-la em, digamos, quatro NERs mais granulares, e elaborar uma NER "guarda-chuva" com ligações para essas quatro NERs mais granulares.
+
+As NERs não se propõem a apresentar uma visão geral de um assunto, e sim uma visão geral das PLRs que tratam desse assunto. Se eu eventualmente quiser apresentar uma visão geral de um assunto, posso esboçar estruturas de tópicos e subtópicos em uma NOTA DE PROJETO, para a qual posso usar uma NER como ponto de partida.
 
 ### Passo-a-passo para criar uma nova nota permanente
 
@@ -381,28 +309,19 @@ Suponhamos que eu tenha uma nota de agrupamento com 60 ligações. Posso dividi-
     │
     │   • Se já houver uma nota com o mesmo conteúdo, não preciso prosseguir.
     │
-    │   • Se o conteúdo for totalmente novo,
-    │     crio o identificador de acordo com a última nota numerada:
-    │     por exemplo, se a última nota numerada for 7.1 então a nova nota será 8.1.
-    │   • Se o conteúdo for acrescentar a uma PLR existente ou bifurcá-la,
-    │     crio o identificador de acordo com a nota pertinente.
+    │   • Clico em "Criar nova nota única" (Create new unique note).
     │
-    │   • Clico em "Inserir modelo" (Insert template)
-    │     e seleciono "3-nota permanente".
-    │
-    │   • Preencho o título: clico no título e modifico o texto.
+    │   • Preencho o título: clico no título e insiro o texto declarativo.
     │   • Preencho os elementos obrigatórios (conteúdo e PQÉR) e,
     │     se for o caso, os opcionais (chaves das referências que serviram
-    │     de ponto de partida, e identificadores das notas permanentes
+    │     de ponto de partida, e ligações para as notas permanentes
     │     relacionadas).
-    │
-    │   • Por fim, movo a nota para a pasta 3-Notas permanentes.
     │
     ╰─────────
 
     Exemplo:
     ╭──────
-    │ "<ID> <título>" (p. ex. "1.1 Contrariamente ao senso comum, nem toda ave voa")
+    │ "<prefixo> <texto declarativo>" (p. ex. "202410071151 Contrariamente ao senso comum, nem toda ave voa")
     ├────── 
     │ O voo não é uma característica definidora das aves.
     │   O pinguim e o avestruz são aves e não voam.
@@ -432,13 +351,13 @@ Suponhamos que eu tenha uma nota de agrupamento com 60 ligações. Posso dividi-
     │   porque um pensamento pode ser aplicável a mais de um contexto.
     │
     │ - Formulo o(s) termo(s)-chave que usarei no índice para poder localizar a nota.
-    │   A entrada no índice apontará para o identificador da nota,
+    │   A entrada no índice apontará para a nota,
     │   ou para outra nota que tenha ligação com ela.
     │
     │   Lembrando: o índice NÃO É EXAUSTIVO,
     │   e o(s) termo(s) NÃO deve(m) ser de arquivista, e sim de escritor.
     │
-    │   A maioria das notas é encontrada por meio de outras notas.
+    │   A maioria das notas deve ser encontrada por meio de outras notas.
     │
     ╰─────────
 
@@ -446,12 +365,12 @@ Suponhamos que eu tenha uma nota de agrupamento com 60 ligações. Posso dividi-
     │ 
     │ - Descarto a nota efêmera.
     │
-    │ - Avalio se é o caso reunir a linha de raciocínio do qual esta nota
-    │   faz parte, mais as outras relacionadas, em uma NOTA DE AGRUPAMENTO
-    │   intitulada de acordo com um interesse meu (ponto de partida: PQÉR);
-    │   e se é o caso reunir essa e as demais notas de agrupamento
-    │   relacionadas em uma nota de agrupamento mais geral
-    │   (p. ex. tema de trabalho amplo).
+    │ - Avalio se é o caso reunir a PLR do qual esta nota faz parte,
+    │   mais as outras relacionadas, em uma NOTA DE ESQUEMATIZAÇÃO DE RACIOCÍNIO
+    │   intitulada de acordo com um tópico discursivo de meu interesse
+    │   (ponto de partida: PQÉR); e se é o caso reunir essa e as demais NERs
+    │   relacionadas em uma NER "guarda-chuva"
+    │   (p. ex. tópico discursivo amplo).
     │ 
     ╰─────────
 
@@ -464,70 +383,19 @@ O índice deve nos permitir alcançar qualquer nota permanente:
 
 As ligações entre as notas são MUITO MAIS IMPORTANTES que uma ligação do índice para uma nota específica.
 
-O índice NÃO deve conter uma visão geral da Zettelkasten, isto é, não deve conter uma ligação para cada nota permanente.
-Cada termo-chave no índice indica uma ou duas notas permanentes que servem como ponto de entrada para as linhas de raciocínio relacionadas a esse termo.
-Por que uma ou duas?
-Mais do que uma ou duas notas como pontos de entrada – Luhmann usava no máximo quatro – indicam que é hora de elaborar uma nota de agrupamento.
-Posso modificar essa nota de agrupamento ao longo do tempo, ou simplesmente elaborar uma nova e modificar a indicação no índice para apontar para ela.
+O índice NÃO deve conter uma visão geral da Zettelkasten, isto é, não deve conter uma ligação para cada nota permanente. Cada termo-chave no índice indica uma ou duas notas permanentes que servem como ponto de entrada para as linhas de raciocínio relacionadas a esse termo. Por que uma ou duas? Mais do que uma ou duas notas como pontos de entrada – Luhmann usava no máximo quatro – indicam que é hora de elaborar uma NER. Posso modificar essa NER ao longo do tempo, ou simplesmente elaborar uma nova e modificar a indicação no índice para apontar para ela.
 
-O índice NÃO deve ser usado para tratar a Zettelkasten como um arquivo, no qual simplesmente recuperamos o que guardamos.
-Os termos-chave não devem ser baseadas no conteúdo isolado de uma nota, e sim em meus interesses.
-
-## Notas de delineamento de estrutura
-
-Notas de delineamento de estrutura servem como esboços de uma estrutura de tópicos sobre um dado assunto.
-
-Ficam salvas na pasta 4-NOTAS DE DELINEAMENTO DE ESTRUTURA.
-
-Não tenho obrigação de escrever tão somente para preencher uma lacuna em uma sequência de notas.
-Só escrevo o que me ajuda a pensar.
-Porque a Zettelkasten é uma ferramenta para pensar.
-
-### Passo-a-passo para criar uma nova nota de delineamento de estrutura
-
-    ╭──ANTES──
-    │
-    │   • Clico com o botão direito na pasta "4-Notas de delineamento de estrutura"
-    │     e seleciono "Nova nota" (New note).
-    │
-    │   • Clico em "Inserir modelo" (Insert template)
-    │     e seleciono "4-nota de delineamento de estrutura".
-    │
-    │   • Renomeio a nota: clico no título e modifico o texto para o
-    │     assunto que estou estruturando.
-    │
-    ╰─────────
-
-    Exemplo:
-    ╭──────
-    │ "Assunto" (sem aspas)
-    ├────── 
-    │
-    │ - Tópico 1
-    │   * [[Nota X]]
-    │   * [[Nota Y]]
-    │ 
-    │ - Tópico 2
-    │   * [[Nota Z]]
-    │   * [[Nota W]]
-    │   - Subtópico 2.1
-    │     * [[Nota M]]
-    │     * [[Nota N]]
-    │
-    │ ...
-    │
-    ╰──────
+O índice NÃO deve ser usado para tratar a Zettelkasten como um arquivo, no qual simplesmente recuperamos o que guardamos. Os termos-chave não devem ser baseados no conteúdo isolado de uma nota, e sim nos assuntos (tópicos discursivos) de meu interesse.
 
 ## Notas de projeto
 
 Ficam salvas na respectiva subpasta da pasta PROJETOS.
 
-São relevantes somente para um projeto em particular.
-Contêm:
+São relevantes somente para um projeto em particular. Contêm:
 
 * Comentários sobre o manuscrito;
 * Coleções da literatura relacionada;
-* Estruturas de tópicos (*outlines*);
+* Esboços de estruturas de tópicos e subtópicos (*outlines*);
 * Trechos de rascunhos;
 * Lembretes;
 * Listas de tarefas; e
@@ -547,7 +415,7 @@ Após a conclusão do projeto, posso descartá-las ou arquivá-las.
     │     e seleciono "Nova nota" (New note).
     │
     │   • Clico em "Inserir modelo" (Insert template)
-    │     e seleciono "5-nota de projeto".
+    │     e seleciono "4-nota de projeto".
     │
     │   • Renomeio a nota: clico no título e modifico o texto para
     │     indicar o conteúdo da nota.
@@ -563,3 +431,10 @@ Ao final de um dia de trabalho, vou saber que não estou fazendo errado se:
 * Tiver adicionado as novas notas permanentes ao índice:
   * Indiretamente, ligada que deve estar a uma nota existente que serve como ponto de entrada para uma PLR;
   * Diretamente, servindo como ponto de entrada para uma PLR.
+
+## Bibliografia
+
+* Ahrens, S. (2022). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking*. Sönke Ahrens. ISBN: 9783982438818.
+* Doto, B. (2024). *A System for Writing: How an Unconventional Approach to Note-making Can Help You Capture Ideas, Think Wildly, and Write Constantly*. New Old Traditions. ISBN: 9798218450144.
+* Kadavy, D. (2021). *Digital Zettelkasten: Principles, Methods, & Examples*. Kadavy, Incorporated.
+* Duffney, J. (2021). *How to Take Smart Notes in Obsidian*. Joshua Duffney.
