@@ -1,9 +1,9 @@
 ## A
 
-termo-chave 1 [[link-nota-relacionada-X]], [[link-nota-relacionada-Y]]
-termo-chave 2 [[link-nota-relacionada-Z]], [[link-nota-relacionada-W]]
-...
-termo-chave N [[link-nota-relacionada-M]], [[link-nota-relacionada-N]]
+- termo-chave 1 [[link-nota-relacionada-X]], [[link-nota-relacionada-Y]]
+- termo-chave 2 [[link-nota-relacionada-Z]], [[link-nota-relacionada-W]]
+- ...
+- termo-chave N [[link-nota-relacionada-M]], [[link-nota-relacionada-N]]
 
 
 ## B

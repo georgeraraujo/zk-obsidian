@@ -1,35 +1,167 @@
-﻿Aprendendo a Ler
+Aprendendo a Ler
 
 Niklas Luhmann (traduzido por Georger Araújo)
 
-A sociedade moderna produz tipos de textos bastante diferentes, que exigem tipos de leitura bastante diferentes. De certo modo, a leitura de um tipo de texto “estraga” o leitor para a leitura de outros tipos de texto. Considerando que isso tem a ver com rotinas, no mais das vezes, inconscientes e habituais, especializações assim são difíceis de corrigir.
+A sociedade moderna produz tipos de textos bastante diferentes, que
+exigem tipos de leitura bastante diferentes. De certo modo, a leitura de
+um tipo de texto “estraga” o leitor para a leitura de outros tipos de
+texto. Considerando que isso tem a ver com rotinas, no mais das vezes,
+inconscientes e habituais, especializações assim são difíceis de
+corrigir.
 
-É aconselhável diferenciar entre textos poéticos, narrativos e científicos. A seguir vou falar principalmente de textos científicos, mas as características desses textos são mais bem explicadas se esclarecermos primeiro por que e como eles devem ser lidos de forma diferente de poemas e romances.
+É aconselhável diferenciar entre textos poéticos, narrativos e
+científicos. A seguir vou falar principalmente de textos científicos,
+mas as características desses textos são mais bem explicadas se
+esclarecermos primeiro por que e como eles devem ser lidos de forma
+diferente de poemas e romances.
 
-A existência de um tipo independente de textos ficcionais é o resultado de um longo processo histórico de habituação, que durou do século XVII até finais do século XVIII. Caracterizou-se pela dificuldade de diferenciar entre realidade real e realidade ficcional (é comum que romances, para convencer o leitor de sua autenticidade, se apresentem primeiro como cartas ou notas que foram encontradas). Nos textos narrativos, a unidade do texto resulta da tensão, isto é, do desconhecimento do que está por vir, de que o leitor é seguidamente lembrado; mas também de um movimento em sentido contrário, uma vez que, como observou Jean Paul, a resolução da tensão depende de que o leitor se recorde de partes que já leu. O leitor é confrontado, por assim dizer, com o paradoxo de já ter visto o que ainda será revelado. A história se desenvolve não apenas na dimensão temporal das ações; a distinção entre “já lido” e “ainda não lido” também ajuda a estruturar o texto.
+A existência de um tipo independente de textos ficcionais é o
+resultado de um longo processo histórico de habituação, que durou
+do século XVII até finais do século XVIII. Caracterizou-se pela
+dificuldade de diferenciar entre realidade real e realidade ficcional
+(é comum que romances, para convencer o leitor de sua autenticidade,
+se apresentem primeiro como cartas ou notas que foram encontradas). Nos
+textos narrativos, a unidade do texto resulta da tensão, isto é, do
+desconhecimento do que está por vir, de que o leitor é seguidamente
+lembrado; mas também de um movimento em sentido contrário, uma vez
+que, como observou Jean Paul, a resolução da tensão depende de que
+o leitor se recorde de partes que já leu. O leitor é confrontado,
+por assim dizer, com o paradoxo de já ter visto o que ainda será
+revelado. A história se desenvolve não apenas na dimensão temporal
+das ações; a distinção entre “já lido” e “ainda não lido”
+também ajuda a estruturar o texto.
 
-A leitura de poemas envolve demandas completamente diferentes. De maneira nenhuma os poemas são textos narrativos em forma de versos, e não podem ser lidos do início ao fim de forma linear, linha a linha. Neles, a garantia de uma unidade subconsciente provém de elementos tonais, de escolhas inusitadas de palavras (especialmente as de uso comum), do reconhecimento de significados opostos e contrastes, e principalmente do ritmo. Lê-los requer memória de curto prazo atenta e recorrências complexas que nunca podem ter certeza de que o que se quer dizer é efetivamente dito.
+A leitura de poemas envolve demandas completamente diferentes. De maneira
+nenhuma os poemas são textos narrativos em forma de versos, e não
+podem ser lidos do início ao fim de forma linear, linha a linha. Neles,
+a garantia de uma unidade subconsciente provém de elementos tonais,
+de escolhas inusitadas de palavras (especialmente as de uso comum), do
+reconhecimento de significados opostos e contrastes, e principalmente
+do ritmo. Lê-los requer memória de curto prazo atenta e recorrências
+complexas que nunca podem ter certeza de que o que se quer dizer é
+efetivamente dito.
 
-Os textos científicos têm demandas ainda diferentes. Aqui estou pensando em textos escritos em linguagem comum, isto é, não em textos escritos na linguagem secreta do cálculo matemático ou lógico. Até cientistas, se quiserem publicar, precisam escrever em forma de frases. A escolha das palavras necessárias para fazê-lo, entretanto, é algo que a maioria dos leitores não pode sequer imaginar. Mesmo entre cientistas esse fato raramente é percebido. A “massa” de palavras necessárias para formar frases escapa a qualquer regramento conceitual. Por exemplo, “escapa” na frase anterior. Não há como evitar esse problema, mesmo que sejamos muito cuidadosos e dediquemos a maior atenção a evidenciar e reconhecer as palavras que carregam significado conceitual. Essas formarão apenas uma pequena parte da totalidade do texto. E como o leitor poderá encontrar essas palavras cruciais?
+Os textos científicos têm demandas ainda diferentes. Aqui estou
+pensando em textos escritos em linguagem comum, isto é, não em textos
+escritos na linguagem secreta do cálculo matemático ou lógico. Até
+cientistas, se quiserem publicar, precisam escrever em forma de frases. A
+escolha das palavras necessárias para fazê-lo, entretanto, é algo que
+a maioria dos leitores não pode sequer imaginar. Mesmo entre cientistas
+esse fato raramente é percebido. A “massa” de palavras necessárias
+para formar frases escapa a qualquer regramento conceitual. Por exemplo,
+“escapa” na frase anterior. Não há como evitar esse problema, mesmo
+que sejamos muito cuidadosos e dediquemos a maior atenção a evidenciar
+e reconhecer as palavras que carregam significado conceitual. Essas
+formarão apenas uma pequena parte da totalidade do texto. E como o
+leitor poderá encontrar essas palavras cruciais?
 
-Esse problema é particularmente prevalente em dois casos, a saber, o do tradutor e o do principiante. Seja como for, essas duas classes de leitores me mostraram quão incerta é a minha escrita – a despeito do meu cuidado considerável em firmar e refinar conexões teóricas.
+Esse problema é particularmente prevalente em dois casos, a saber, o
+do tradutor e o do principiante. Seja como for, essas duas classes de
+leitores me mostraram quão incerta é a minha escrita – a despeito
+do meu cuidado considerável em firmar e refinar conexões teóricas.
 
-Os tradutores que não estão suficientemente familiarizados com o contexto teórico de um dado texto muitas vezes empregam o mesmo esforço em relação a todas as palavras que nele encontram. Isso não quer dizer que vão se aferrar à ordem das palavras, o que normalmente é impossível, e nesse sentido traduzir “palavra por palavra”. Mas eles não se sentem no direito de tomar liberdades com as muitas palavras que não têm nada de especial. Eles escolhem dentre as palavras equivalentes que são lexicalmente assemelhadas e parecem se aproximar mais do significado pretendido, e eu não sei como isso poderia ser feito de uma forma que não resultasse em textos totalmente diferentes. O que resta a quem lê textos científicos é tão somente aprender tantos idiomas quanto puder de forma a obter ao menos um domínio passivo deles, isto é, poder lê-los e entendê-los.
+Os tradutores que não estão suficientemente familiarizados com
+o contexto teórico de um dado texto muitas vezes empregam o mesmo
+esforço em relação a todas as palavras que nele encontram. Isso
+não quer dizer que vão se aferrar à ordem das palavras, o que
+normalmente é impossível, e nesse sentido traduzir “palavra por
+palavra”. Mas eles não se sentem no direito de tomar liberdades com
+as muitas palavras que não têm nada de especial. Eles escolhem dentre
+as palavras equivalentes que são lexicalmente assemelhadas e parecem
+se aproximar mais do significado pretendido, e eu não sei como isso
+poderia ser feito de uma forma que não resultasse em textos totalmente
+diferentes. O que resta a quem lê textos científicos é tão somente
+aprender tantos idiomas quanto puder de forma a obter ao menos um domínio
+passivo deles, isto é, poder lê-los e entendê-los.
 
-Os principiantes, especialmente os estudantes principiantes, são inicialmente confrontados com uma massa de palavras dispostas em frases, que leem e compreendem em termos do significado frasal propriamente dito. Mas o que é importante? O que se deve “aprender”? O que é importante, e o que é apenas acessório? Depois de ler umas poucas páginas, dificilmente conseguimos lembrar do que lemos. Que recomendações podemos fazer aqui?
+Os principiantes, especialmente os estudantes principiantes, são
+inicialmente confrontados com uma massa de palavras dispostas em frases,
+que leem e compreendem em termos do significado frasal propriamente
+dito. Mas o que é importante? O que se deve “aprender”? O que
+é importante, e o que é apenas acessório? Depois de ler umas
+poucas páginas, dificilmente conseguimos lembrar do que lemos. Que
+recomendações podemos fazer aqui?
 
-Uma possibilidade é lembrar por meio de nomes – Marx, Freud, Giddens, Bourdieu etc. É evidente que a maior parte do conhecimento está organizada dessa forma, possivelmente também sob nomes de teorias como fenomenologia social, teoria da recepção nas disciplinas literárias etc. Aliás, é possível encontrar cursos e textos introdutórios desenhados dessa forma. O que não ou dificilmente se aprende são as relações conceituais e, principalmente, a natureza dos problemas que os textos tentam resolver. Candidatos chegam aos seus exames de fim de curso e querem ser examinados sobre Max Weber ou, se isso for demais, sobre Humberto Maturana, e estão preparados para dissertar sobre o que sabem desses autores.
+Uma possibilidade é lembrar por meio de nomes – Marx, Freud, Giddens,
+Bourdieu etc. É evidente que a maior parte do conhecimento está
+organizada dessa forma, possivelmente também sob nomes de teorias como
+fenomenologia social, teoria da recepção nas disciplinas literárias
+etc. Aliás, é possível encontrar cursos e textos introdutórios
+desenhados dessa forma. O que não ou dificilmente se aprende são as
+relações conceituais e, principalmente, a natureza dos problemas que
+os textos tentam resolver. Candidatos chegam aos seus exames de fim de
+curso e querem ser examinados sobre Max Weber ou, se isso for demais,
+sobre Humberto Maturana, e estão preparados para dissertar sobre o que
+sabem desses autores.
 
-Outra possibilidade é ler bastante sobre certos assuntos – responsabilidade por defeitos no direito civil, teoria da socialização, pesquisa sobre risco etc. – em paralelo. Por conseguinte, você desenvolve paulatinamente uma intuição daquilo que já sabe e se familiariza com o “estado da pesquisa”. Nessa altura coisas novas chamam sua atenção. Mas você aprende que normalmente ficam desatualizadas bastante rápido, e então as desaprende. Isso também mostra a vantagem de aprender velhas linguagens. Você não precisa desaprendê-las, só esquecê-las.
+Outra possibilidade é ler bastante sobre certos assuntos –
+responsabilidade por defeitos no direito civil, teoria da socialização,
+pesquisa sobre risco etc. – em paralelo. Por conseguinte, você
+desenvolve paulatinamente uma intuição daquilo que já sabe e
+se familiariza com o “estado da pesquisa”. Nessa altura coisas
+novas chamam sua atenção. Mas você aprende que normalmente ficam
+desatualizadas bastante rápido, e então as desaprende. Isso também
+mostra a vantagem de aprender velhas linguagens. Você não precisa
+desaprendê-las, só esquecê-las.
 
-O problema da leitura de textos científicos parece consistir no fato de estes não necessitarem apenas de memória de curto prazo, mas também de memória de longo prazo com o intento de obter pontos de referência para distinguir entre o que é essencial e o que não é essencial, e entre o que é novo e o que é meramente repetido. Mas não se pode memorizar tudo. Isso seria simplesmente decorar. Em outras palavras, é preciso ler de forma muito seletiva e ser capaz de extrair referências ricamente interligadas. É preciso ser capaz de entender as recorrências. Mas como podemos aprender essas habilidades, se não é possível dar instruções de como fazê-lo; ou, na melhor das hipóteses, por meio de coisas óbvias (como na frase anterior, por exemplo, “recorrências”, mas não “é preciso”)?
+O problema da leitura de textos científicos parece consistir no fato
+de estes não necessitarem apenas de memória de curto prazo, mas
+também de memória de longo prazo com o intento de obter pontos de
+referência para distinguir entre o que é essencial e o que não é
+essencial, e entre o que é novo e o que é meramente repetido. Mas
+não se pode memorizar tudo. Isso seria simplesmente decorar. Em
+outras palavras, é preciso ler de forma muito seletiva e ser capaz de
+extrair referências ricamente interligadas. É preciso ser capaz de
+entender as recorrências. Mas como podemos aprender essas habilidades,
+se não é possível dar instruções de como fazê-lo; ou, na melhor
+das hipóteses, por meio de coisas óbvias (como na frase anterior,
+por exemplo, “recorrências”, mas não “é preciso”)?
 
-Talvez o melhor método seja tomar notas – não transcrever trechos, mas escrever reformulações condensadas do que lemos. Descrever novamente o que já foi descrito leva quase automaticamente a um treino de prestar atenção a “quadros”, ou sinopses esquemáticas de observação; ou entrever condições que induzem o texto a oferecer algumas descrições, mas não outras. É sempre útil considerar: o que não se quer dizer, o que se quer excluir ao afirmar algo? Se o texto fala em “direitos humanos”: como o autor diferencia suas afirmações? De direitos não humanos? De deveres humanos? Ou em uma comparação cultural ou histórica que vem de povos que não sabem o que são direitos humanos e podem viver bastante bem sem eles?
+Talvez o melhor método seja tomar notas – não transcrever trechos,
+mas escrever reformulações condensadas do que lemos. Descrever novamente
+o que já foi descrito leva quase automaticamente a um treino de prestar
+atenção a “quadros”, ou sinopses esquemáticas de observação; ou
+entrever condições que induzem o texto a oferecer algumas descrições,
+mas não outras. É sempre útil considerar: o que não se quer dizer,
+o que se quer excluir ao afirmar algo? Se o texto fala em “direitos
+humanos”: como o autor diferencia suas afirmações? De direitos
+não humanos? De deveres humanos? Ou em uma comparação cultural ou
+histórica que vem de povos que não sabem o que são direitos humanos
+e podem viver bastante bem sem eles?
 
-Muitas vezes o texto silencia ou não dá uma resposta clara sobre o outro lado do que afirma. Mas nessa altura você deve usar sua imaginação. Aqui não cabem escrúpulos sobre justificabilidade hermenêutica, nem sequer sobre verdade; nesse momento trata-se tão somente do seu sistema de anotar coisas, de procurar por algo que valha a pena lembrar, e de aprender a ler.
+Muitas vezes o texto silencia ou não dá uma resposta clara sobre
+o outro lado do que afirma. Mas nessa altura você deve usar sua
+imaginação. Aqui não cabem escrúpulos sobre justificabilidade
+hermenêutica, nem sequer sobre verdade; nesse momento trata-se tão
+somente do seu sistema de anotar coisas, de procurar por algo que valha
+a pena lembrar, e de aprender a ler.
 
-Isso leva a outra questão: o que você deve fazer com o que escreveu? Certamente, num primeiro momento produziremos numerosas coisas bem pouco aproveitáveis. Mas fomos ensinados a esperar que nossas atividades produzam algo de útil, e se não for assim logo perderemos a coragem. Devemos, portanto, refletir sobre se e como devemos organizar nossas anotações para que possamos acessá-las posteriormente, ou pelo menos tenhamos essa ilusão reconfortante. Isso requer um computador ou um fichário com fichas numeradas e um índice de termos-chave. A prática constante de “depositar” notas é então mais um processo de trabalho, que demanda tempo; mas é também uma atividade que vai além da mera monotonia de ler e, por assim dizer, treina a nossa memória.
+Isso leva a outra questão: o que você deve fazer com o que
+escreveu? Certamente, num primeiro momento produziremos numerosas coisas
+bem pouco aproveitáveis. Mas fomos ensinados a esperar que nossas
+atividades produzam algo de útil, e se não for assim logo perderemos
+a coragem. Devemos, portanto, refletir sobre se e como devemos organizar
+nossas anotações para que possamos acessá-las posteriormente, ou pelo
+menos tenhamos essa ilusão reconfortante. Isso requer um computador
+ou um fichário com fichas numeradas e um índice de termos-chave. A
+prática constante de “depositar” notas é então mais um processo de
+trabalho, que demanda tempo; mas é também uma atividade que vai além
+da mera monotonia de ler e, por assim dizer, treina a nossa memória.
 
-Mas nós começamos a pensar sobre isso com a pergunta: Como se aprende a ler textos científicos? A única resposta é que isso exige recorrer, de forma reiterada e irrestrita, ao que já sabemos, isto é, à memória de longo prazo. Não é algo que possa ocorrer espontaneamente; e talvez escrever reformulando seja um método conveniente de fazê-lo – mesmo que por algum tempo você tenha que adiar suas esperanças de produtividade científica.
+Mas nós começamos a pensar sobre isso com a pergunta: Como se aprende a
+ler textos científicos? A única resposta é que isso exige recorrer, de
+forma reiterada e irrestrita, ao que já sabemos, isto é, à memória de
+longo prazo. Não é algo que possa ocorrer espontaneamente; e talvez
+escrever reformulando seja um método conveniente de fazê-lo –
+mesmo que por algum tempo você tenha que adiar suas esperanças de
+produtividade científica.
 
-Esta poderia ser a ocasião para lembrar que a diferenciação de tipos de textos com a qual começamos iniciou-se apenas no século XVIII. Ela vale para o romance moderno, bem como para textos científicos e poéticos exigentes (ou como alguém poderia ser tentado a dizer: multimídia). Obviamente essa diferenciação foi influenciada pela impressão de livros, em todos os seus aspectos. Pode ser que agora, especialmente à luz das possibilidades que os computadores oferecem, nós devamos regressar mais aos benefícios obtidos por meio do ato de escrever.
+Esta poderia ser a ocasião para lembrar que a diferenciação de tipos
+de textos com a qual começamos iniciou-se apenas no século XVIII. Ela
+vale para o romance moderno, bem como para textos científicos e
+poéticos exigentes (ou como alguém poderia ser tentado a dizer:
+multimídia). Obviamente essa diferenciação foi influenciada pela
+impressão de livros, em todos os seus aspectos. Pode ser que agora,
+especialmente à luz das possibilidades que os computadores oferecem,
+nós devamos regressar mais aos benefícios obtidos por meio do ato
+de escrever.
